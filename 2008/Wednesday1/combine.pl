@@ -22,7 +22,7 @@ print OUT '.even, {background-color: #bbf;}';
 print OUT '.odd {background-color: #ddf;}';
 print OUT '</style>';
 
-my @files = ('cadetos.html', 'larkos.html', 'laseros.html', 'okos.html', 'squibos.html', 'wayfareros.html', 'fast-handicapos.html', 'slow-handicapos.html');
+my @files = ('cadetos.html', 'dragonflyos.html', 'larkos.html', 'laseros.html', 'okos.html', 'squibos.html', 'wayfareros.html', 'fast-handicapos.html', 'slow-handicapos.html');
 foreach (@files) {
     processFile($_);
 }
