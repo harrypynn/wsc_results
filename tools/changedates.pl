@@ -6,3 +6,5 @@ while(<>) {
     s!27/6/09!15/8/09!;
     print;
 }
+# Run as:
+# > perl -ibak changedates.pl Cadet.blw Lark.blw Ok.blw Wayfarer.blw Dragonfly.blw Laser.blw Squib.blw
