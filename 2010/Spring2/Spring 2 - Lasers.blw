@@ -2445,7 +2445,7 @@
 "column","2||27|Yes|Yes|38||","",""
 "column","1|Total|30|No|No|39||","",""
 "column","1|Nett|31|Yes|Yes|23||","",""
-"column","1|Notes|34|Yes|Yes|31||","",""
+"column","1|Notes|34|No|No|31||","",""
 "column","1|Status|68|No|No|40||","",""
 "column","1|Fee|70|No|No|40||","",""
 "column","1|Paid|71|No|No|40||","",""
