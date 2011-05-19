@@ -1,0 +1,82 @@
+﻿body
+{
+   color: #ffffff;      /* the page's background colour */
+}
+
+/* The column styles set attributes for each column */
+/* Use width to control the column width            */
+.datecolumn
+{
+   width: 15%; 
+}
+.eventcolumn
+{
+   width: 25%; 
+}
+.dutycolumn
+{
+   width: 25%; 
+}
+.namecolumn
+{
+  width: 35%; 
+}
+
+/* The font styles to control the appearance of the text in each column */
+/* Use white-space:nowrap; to stop text from wrapping                   */
+.datefont
+{
+   font-size:  xx-small;
+   color: #696969;
+   font-family: Verdana;
+   white-space:nowrap;
+}
+.eventfont
+{
+   font-size: xx-small;
+   color: #6495ed;
+   font-family: Verdana;
+   margin-left: 10px;
+}
+.dutyfont
+{
+   font-size: xx-small;
+   color: #ff6600;
+   font-family: Verdana;
+   margin-left: 10px;
+}
+.namefont
+{
+   font-size: xx-small;
+   color: #cc33cc;
+   font-family: Verdana;
+   margin-left: 10px;
+}
+
+/* These styles control the appearance and behaviour of the link to DutyMan */
+A:link
+{
+   font-size: xx-small;
+   color: #0000ff;
+   font-family: Verdana;
+   text-decoration: none;
+}
+A:active {
+   font-size: xx-small;
+   color: #0000ff;
+   font-family: Verdana;
+	text-decoration: none; 
+}
+A:visited {
+   font-size: xx-small;
+   color: #0000ff;
+   font-family: Verdana;
+	text-decoration: none; 
+}
+A:hover
+{
+   font-size: xx-small;
+   color: #0000ff;
+   font-family: Verdana;
+   text-decoration: underline;
+}
